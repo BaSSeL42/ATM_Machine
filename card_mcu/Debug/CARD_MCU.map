@@ -1,0 +1,1169 @@
+Archive member included because of file (symbol)
+
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              ./MCAL/pwm/PWM_Source.o (__divmodhi4)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              ./MCAL/UART/MUART_Source.o (__udivmodsi4)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              ./MCAL/UART/MUART_Config.o (__do_copy_data)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              ./MCAL/pwm/PWM_Source.o (__do_clear_bss)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                              ./MCAL/Timer/Timer_Source.o (__fixunssfsi)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__subsf3)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                              ./HAL/KEYPAD_V2/keypad_src_v2.o (__mulsf3)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                              ./MCAL/Timer/Timer_Source.o (__divsf3)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                              ./HAL/KEYPAD_V2/keypad_src_v2.o (__gtsf2)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                              ./HAL/KEYPAD_V2/keypad_src_v2.o (__ltsf2)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                              ./MCAL/Timer/Timer_Source.o (__floatunsisf)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o) (__clzsi2)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o) (__fpcmp_parts_f)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              ./APP/app.o (strcmp)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              ./APP/app.o (strlen)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              ./HAL/HLCD/HLCD_Source.o (itoa)
+c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+
+Allocating common symbols
+Common symbol       size              file
+
+gen_PwmMode         0x1               ./MCAL/pwm/PWM_Source.o
+g_dataVal           0x1               ./MCAL/SPI/SPI_Program.o
+receivedString      0x40              ./MCAL/UART/MUART_Source.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD ./MCAL/pwm/PWM_Source.o
+LOAD ./MCAL/UART/MUART_Config.o
+LOAD ./MCAL/UART/MUART_Source.o
+LOAD ./MCAL/Timer/Timer_Source.o
+LOAD ./MCAL/SPI/SPI_Program.o
+LOAD ./MCAL/IIC/MI2C_Program.o
+LOAD ./MCAL/ExtInt/EXTINT_Source.o
+LOAD ./MCAL/DIO/DIO_Source.o
+LOAD ./HAL/LED/led.o
+LOAD ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+LOAD ./HAL/KEYPAD_V2/keypad_src_v2.o
+LOAD ./HAL/HUART/HUART_Source.o
+LOAD ./HAL/HTimer/HTimer.o
+LOAD ./HAL/HSPI/HSPI_Program.o
+LOAD ./HAL/HLCD/HLCD_Configure.o
+LOAD ./HAL/HLCD/HLCD_Source.o
+LOAD ./HAL/HExtInt/HExtInt.o
+LOAD ./HAL/EEPROM/HEEPROM_Program.o
+LOAD ./HAL/Button/button.o
+LOAD ./APP/app.o
+LOAD ./main.o
+LOAD c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x547e
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000060       0x16 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x00000060                __do_copy_data
+ .init4         0x00000076       0x10 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000086        0x8 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x0000008e        0x4 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x0000008e                __bad_interrupt
+                0x0000008e                __vector_6
+                0x0000008e                __vector_3
+                0x0000008e                __vector_11
+                0x0000008e                __vector_17
+                0x0000008e                __vector_19
+                0x0000008e                __vector_7
+                0x0000008e                __vector_4
+                0x0000008e                __vector_9
+                0x0000008e                __vector_15
+                0x0000008e                __vector_8
+                0x0000008e                __vector_14
+                0x0000008e                __vector_10
+                0x0000008e                __vector_16
+                0x0000008e                __vector_18
+                0x0000008e                __vector_20
+ .text          0x00000092        0x0 ./MCAL/pwm/PWM_Source.o
+ .text          0x00000092        0x0 ./MCAL/UART/MUART_Config.o
+ .text          0x00000092        0x0 ./MCAL/UART/MUART_Source.o
+ .text          0x00000092        0x0 ./MCAL/Timer/Timer_Source.o
+ .text          0x00000092        0x0 ./MCAL/SPI/SPI_Program.o
+ .text          0x00000092        0x0 ./MCAL/IIC/MI2C_Program.o
+ .text          0x00000092        0x0 ./MCAL/ExtInt/EXTINT_Source.o
+ .text          0x00000092        0x0 ./MCAL/DIO/DIO_Source.o
+ .text          0x00000092        0x0 ./HAL/LED/led.o
+ .text          0x00000092        0x0 ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+ .text          0x00000092        0x0 ./HAL/KEYPAD_V2/keypad_src_v2.o
+ .text          0x00000092        0x0 ./HAL/HUART/HUART_Source.o
+ .text          0x00000092        0x0 ./HAL/HTimer/HTimer.o
+ .text          0x00000092        0x0 ./HAL/HSPI/HSPI_Program.o
+ .text          0x00000092        0x0 ./HAL/HLCD/HLCD_Configure.o
+ .text          0x00000092        0x0 ./HAL/HLCD/HLCD_Source.o
+ .text          0x00000092        0x0 ./HAL/HExtInt/HExtInt.o
+ .text          0x00000092        0x0 ./HAL/EEPROM/HEEPROM_Program.o
+ .text          0x00000092        0x0 ./HAL/Button/button.o
+ .text          0x00000092        0x0 ./APP/app.o
+ .text          0x00000092        0x0 ./main.o
+ .text          0x00000092        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000092        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000092        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x00000092        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000092        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000092       0x58 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                0x00000092                __fixunssfsi
+ .text          0x000000ea      0x354 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                0x00000382                __subsf3
+                0x000003e4                __addsf3
+ .text          0x0000043e      0x1f4 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                0x0000043e                __mulsf3
+ .text          0x00000632      0x158 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                0x00000632                __divsf3
+ .text          0x0000078a       0x60 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                0x0000078a                __gtsf2
+ .text          0x000007ea       0x60 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                0x000007ea                __gesf2
+ .text          0x0000084a       0x60 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                0x0000084a                __ltsf2
+ .text          0x000008aa       0xa8 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                0x000008aa                __fixsfsi
+ .text          0x00000952        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .text          0x00000952       0xf2 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                0x00000952                __floatunsisf
+ .text          0x00000a44        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000a44        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x00000a44        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000a44       0x9e c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                0x00000a44                __clzsi2
+ .text          0x00000ae2      0x1aa c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                0x00000ae2                __pack_f
+ .text          0x00000c8c       0xf0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                0x00000c8c                __unpack_f
+ .text          0x00000d7c       0xb2 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00000d7c                __fpcmp_parts_f
+ .text          0x00000e2e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .text          0x00000e2e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text          0x00000e2e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .text          0x00000e2e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x00000e2e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00000e2e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.Timer1_enuInit
+                0x00000e2e      0x47a ./MCAL/pwm/PWM_Source.o
+                0x00000e2e                Timer1_enuInit
+ .text.Timer1_enuSetPrescallar
+                0x000012a8       0x48 ./MCAL/pwm/PWM_Source.o
+                0x000012a8                Timer1_enuSetPrescallar
+ .text.Timer1_enuFastPWMInit
+                0x000012f0       0x60 ./MCAL/pwm/PWM_Source.o
+                0x000012f0                Timer1_enuFastPWMInit
+ .text.Timer1_enuPWMGenerate
+                0x00001350       0xca ./MCAL/pwm/PWM_Source.o
+                0x00001350                Timer1_enuPWMGenerate
+ .text.Timer2_enuInit
+                0x0000141a       0xee ./MCAL/pwm/PWM_Source.o
+                0x0000141a                Timer2_enuInit
+ .text.Timer2_enuSetPrescallar
+                0x00001508       0x48 ./MCAL/pwm/PWM_Source.o
+                0x00001508                Timer2_enuSetPrescallar
+ .text.Timer2_enuFastPWMInit
+                0x00001550       0x5a ./MCAL/pwm/PWM_Source.o
+                0x00001550                Timer2_enuFastPWMInit
+ .text.Timer2_enuPWMGenerate
+                0x000015aa       0x4a ./MCAL/pwm/PWM_Source.o
+                0x000015aa                Timer2_enuPWMGenerate
+ .text.__vector_13
+                0x000015f4       0xaa ./MCAL/UART/MUART_Source.o
+                0x000015f4                __vector_13
+ .text.MUART_enInit
+                0x0000169e      0x1b6 ./MCAL/UART/MUART_Source.o
+                0x0000169e                MUART_enInit
+ .text.MUART_enSendData
+                0x00001854       0x54 ./MCAL/UART/MUART_Source.o
+                0x00001854                MUART_enSendData
+ .text.MUART_enRecieveData
+                0x000018a8       0x56 ./MCAL/UART/MUART_Source.o
+                0x000018a8                MUART_enRecieveData
+ .text.MUART_sendSTRING
+                0x000018fe       0x38 ./MCAL/UART/MUART_Source.o
+                0x000018fe                MUART_sendSTRING
+ .text.MUART_receiveSTRING
+                0x00001936       0x90 ./MCAL/UART/MUART_Source.o
+                0x00001936                MUART_receiveSTRING
+ .text.enuTimer2_init
+                0x000019c6       0xee ./MCAL/Timer/Timer_Source.o
+                0x000019c6                enuTimer2_init
+ .text.u8Timer2_setPrescallar
+                0x00001ab4       0x60 ./MCAL/Timer/Timer_Source.o
+                0x00001ab4                u8Timer2_setPrescallar
+ .text.vidTimer2_OvfIrqEnable
+                0x00001b14       0x32 ./MCAL/Timer/Timer_Source.o
+                0x00001b14                vidTimer2_OvfIrqEnable
+ .text.vidTimer2_OvfIrqDisable
+                0x00001b46       0x24 ./MCAL/Timer/Timer_Source.o
+                0x00001b46                vidTimer2_OvfIrqDisable
+ .text.vidTimer2_start
+                0x00001b6a       0x2e ./MCAL/Timer/Timer_Source.o
+                0x00001b6a                vidTimer2_start
+ .text.vidTimer2_stop
+                0x00001b98       0x28 ./MCAL/Timer/Timer_Source.o
+                0x00001b98                vidTimer2_stop
+ .text.u8Timer2_setTime_ms
+                0x00001bc0      0x194 ./MCAL/Timer/Timer_Source.o
+                0x00001bc0                u8Timer2_setTime_ms
+ .text.MTIMER2_vidSynch
+                0x00001d54       0x4e ./MCAL/Timer/Timer_Source.o
+                0x00001d54                MTIMER2_vidSynch
+ .text.vidTimer2_setcbf_OVF
+                0x00001da2       0x2c ./MCAL/Timer/Timer_Source.o
+                0x00001da2                vidTimer2_setcbf_OVF
+ .text.MTIMER_vidResetTCNT
+                0x00001dce       0x14 ./MCAL/Timer/Timer_Source.o
+                0x00001dce                MTIMER_vidResetTCNT
+ .text.MTIMER_u8GetTCNT
+                0x00001de2       0x14 ./MCAL/Timer/Timer_Source.o
+                0x00001de2                MTIMER_u8GetTCNT
+ .text.__vector_5
+                0x00001df6       0x80 ./MCAL/Timer/Timer_Source.o
+                0x00001df6                __vector_5
+ .text.MSPI_enMasterInit
+                0x00001e76      0x252 ./MCAL/SPI/SPI_Program.o
+                0x00001e76                MSPI_enMasterInit
+ .text.MSPI_enSlaveInit
+                0x000020c8       0x5e ./MCAL/SPI/SPI_Program.o
+                0x000020c8                MSPI_enSlaveInit
+ .text.MSPI_vidTransmitChar
+                0x00002126       0x30 ./MCAL/SPI/SPI_Program.o
+                0x00002126                MSPI_vidTransmitChar
+ .text.MSPI_enReceiveChar
+                0x00002156       0x4c ./MCAL/SPI/SPI_Program.o
+                0x00002156                MSPI_enReceiveChar
+ .text.__vector_12
+                0x000021a2       0x36 ./MCAL/SPI/SPI_Program.o
+                0x000021a2                __vector_12
+ .text.i2c_init_master
+                0x000021d8       0x48 ./MCAL/IIC/MI2C_Program.o
+                0x000021d8                i2c_init_master
+ .text.i2c_init_slave
+                0x00002220       0x24 ./MCAL/IIC/MI2C_Program.o
+                0x00002220                i2c_init_slave
+ .text.i2c_start
+                0x00002244       0x34 ./MCAL/IIC/MI2C_Program.o
+                0x00002244                i2c_start
+ .text.i2c_repeated_start
+                0x00002278       0x34 ./MCAL/IIC/MI2C_Program.o
+                0x00002278                i2c_repeated_start
+ .text.i2c_send_slave_address_with_write_req
+                0x000022ac       0x52 ./MCAL/IIC/MI2C_Program.o
+                0x000022ac                i2c_send_slave_address_with_write_req
+ .text.i2c_send_slave_address_with_read_req
+                0x000022fe       0x3e ./MCAL/IIC/MI2C_Program.o
+                0x000022fe                i2c_send_slave_address_with_read_req
+ .text.i2c_write_byte
+                0x0000233c       0x56 ./MCAL/IIC/MI2C_Program.o
+                0x0000233c                i2c_write_byte
+ .text.i2c_read_byte
+                0x00002392       0x26 ./MCAL/IIC/MI2C_Program.o
+                0x00002392                i2c_read_byte
+ .text.i2c_stop
+                0x000023b8       0x4a ./MCAL/IIC/MI2C_Program.o
+                0x000023b8                i2c_stop
+ .text.i2c_slave_check_slave_address_received_with_write_req
+                0x00002402       0x56 ./MCAL/IIC/MI2C_Program.o
+                0x00002402                i2c_slave_check_slave_address_received_with_write_req
+ .text.i2c_slave_check_slave_address_received_with_read_req
+                0x00002458       0x56 ./MCAL/IIC/MI2C_Program.o
+                0x00002458                i2c_slave_check_slave_address_received_with_read_req
+ .text.i2c_slave_read_byte
+                0x000024ae       0x5c ./MCAL/IIC/MI2C_Program.o
+                0x000024ae                i2c_slave_read_byte
+ .text.i2c_slave_write_byte
+                0x0000250a       0x64 ./MCAL/IIC/MI2C_Program.o
+                0x0000250a                i2c_slave_write_byte
+ .text.vidExtInt_init
+                0x0000256e      0x272 ./MCAL/ExtInt/EXTINT_Source.o
+                0x0000256e                vidExtInt_init
+ .text.MEXTINT_vidCallBackFunc
+                0x000027e0       0x24 ./MCAL/ExtInt/EXTINT_Source.o
+                0x000027e0                MEXTINT_vidCallBackFunc
+ .text.MEXTINT_vidCallBackFuncInt1
+                0x00002804       0x24 ./MCAL/ExtInt/EXTINT_Source.o
+                0x00002804                MEXTINT_vidCallBackFuncInt1
+ .text.MEXTINT_vidWaitFlag
+                0x00002828       0x28 ./MCAL/ExtInt/EXTINT_Source.o
+                0x00002828                MEXTINT_vidWaitFlag
+ .text.MEXTINT_vidDisableInterrupt
+                0x00002850       0x1c ./MCAL/ExtInt/EXTINT_Source.o
+                0x00002850                MEXTINT_vidDisableInterrupt
+ .text.MEXTINT_vidEnableInterrupt
+                0x0000286c       0x2a ./MCAL/ExtInt/EXTINT_Source.o
+                0x0000286c                MEXTINT_vidEnableInterrupt
+ .text.__vector_1
+                0x00002896       0x5a ./MCAL/ExtInt/EXTINT_Source.o
+                0x00002896                __vector_1
+ .text.__vector_2
+                0x000028f0       0x5a ./MCAL/ExtInt/EXTINT_Source.o
+                0x000028f0                __vector_2
+ .text.DIO_s8SETPortDir
+                0x0000294a       0x72 ./MCAL/DIO/DIO_Source.o
+                0x0000294a                DIO_s8SETPortDir
+ .text.DIO_s8SETPortVal
+                0x000029bc       0x46 ./MCAL/DIO/DIO_Source.o
+                0x000029bc                DIO_s8SETPortVal
+ .text.DIO_s8GETPortVal
+                0x00002a02       0x4e ./MCAL/DIO/DIO_Source.o
+                0x00002a02                DIO_s8GETPortVal
+ .text.DIO_s8SETPinDir
+                0x00002a50       0xec ./MCAL/DIO/DIO_Source.o
+                0x00002a50                DIO_s8SETPinDir
+ .text.DIO_s8SETPinVal
+                0x00002b3c       0xec ./MCAL/DIO/DIO_Source.o
+                0x00002b3c                DIO_s8SETPinVal
+ .text.DIO_s8TOGPinVal
+                0x00002c28       0x84 ./MCAL/DIO/DIO_Source.o
+                0x00002c28                DIO_s8TOGPinVal
+ .text.DIO_s8GETPinVal
+                0x00002cac       0x7e ./MCAL/DIO/DIO_Source.o
+                0x00002cac                DIO_s8GETPinVal
+ .text.HLed_Init
+                0x00002d2a       0x2e ./HAL/LED/led.o
+                0x00002d2a                HLed_Init
+ .text.HLed_on  0x00002d58       0x2e ./HAL/LED/led.o
+                0x00002d58                HLed_on
+ .text.HLed_off
+                0x00002d86       0x2e ./HAL/LED/led.o
+                0x00002d86                HLed_off
+ .text.HLed_toggle
+                0x00002db4       0x2c ./HAL/LED/led.o
+                0x00002db4                HLed_toggle
+ .text.KEYPAD_vidInit_V2
+                0x00002de0       0xa4 ./HAL/KEYPAD_V2/keypad_src_v2.o
+                0x00002de0                KEYPAD_vidInit_V2
+ .text.KEYPAD_u8GetPressed_V2
+                0x00002e84      0x2a6 ./HAL/KEYPAD_V2/keypad_src_v2.o
+                0x00002e84                KEYPAD_u8GetPressed_V2
+ .text.HUART_enInit
+                0x0000312a       0x3c ./HAL/HUART/HUART_Source.o
+                0x0000312a                HUART_enInit
+ .text.HUART_enSendData
+                0x00003166       0x22 ./HAL/HUART/HUART_Source.o
+                0x00003166                HUART_enSendData
+ .text.HUART_enRecieveData
+                0x00003188       0x2a ./HAL/HUART/HUART_Source.o
+                0x00003188                HUART_enRecieveData
+ .text.HUART_sendSTRING
+                0x000031b2       0x20 ./HAL/HUART/HUART_Source.o
+                0x000031b2                HUART_sendSTRING
+ .text.HUART_ClearScreen
+                0x000031d2       0x16 ./HAL/HUART/HUART_Source.o
+                0x000031d2                HUART_ClearScreen
+ .text.HUART_receiveSTRING
+                0x000031e8       0x28 ./HAL/HUART/HUART_Source.o
+                0x000031e8                HUART_receiveSTRING
+ .text.HTimer_enInit
+                0x00003210       0x26 ./HAL/HTimer/HTimer.o
+                0x00003210                HTimer_enInit
+ .text.HTimer_vidDelayMs
+                0x00003236       0x3a ./HAL/HTimer/HTimer.o
+                0x00003236                HTimer_vidDelayMs
+ .text.HTimer_enStop
+                0x00003270       0x1a ./HAL/HTimer/HTimer.o
+                0x00003270                HTimer_enStop
+ .text.HTimer_enCBF
+                0x0000328a       0x36 ./HAL/HTimer/HTimer.o
+                0x0000328a                HTimer_enCBF
+ .text.HSPI_enMasterInit
+                0x000032c0       0x56 ./HAL/HSPI/HSPI_Program.o
+                0x000032c0                HSPI_enMasterInit
+ .text.HSPI_enSlaveInit
+                0x00003316       0x4a ./HAL/HSPI/HSPI_Program.o
+                0x00003316                HSPI_enSlaveInit
+ .text.HSPI_vidTransmitChar
+                0x00003360       0x2a ./HAL/HSPI/HSPI_Program.o
+                0x00003360                HSPI_vidTransmitChar
+ .text.HSPI_enReceiveChar
+                0x0000338a       0x32 ./HAL/HSPI/HSPI_Program.o
+                0x0000338a                HSPI_enReceiveChar
+ .text.HSPI_vidTransmitString
+                0x000033bc       0x56 ./HAL/HSPI/HSPI_Program.o
+                0x000033bc                HSPI_vidTransmitString
+ .text.HSPI_enReceiveString
+                0x00003412       0xb0 ./HAL/HSPI/HSPI_Program.o
+                0x00003412                HSPI_enReceiveString
+ .text.HLCD_vidInit
+                0x000034c2      0x6aa ./HAL/HLCD/HLCD_Source.o
+                0x000034c2                HLCD_vidInit
+ .text.HLCD_vidWritecmd
+                0x00003b6c      0x5b2 ./HAL/HLCD/HLCD_Source.o
+                0x00003b6c                HLCD_vidWritecmd
+ .text.HLCD_vidWriteChar
+                0x0000411e      0x5b2 ./HAL/HLCD/HLCD_Source.o
+                0x0000411e                HLCD_vidWriteChar
+ .text.HLCD_ClrDisplay
+                0x000046d0      0x1fa ./HAL/HLCD/HLCD_Source.o
+                0x000046d0                HLCD_ClrDisplay
+ .text.HLCD_ShiftLeft
+                0x000048ca      0x110 ./HAL/HLCD/HLCD_Source.o
+                0x000048ca                HLCD_ShiftLeft
+ .text.HLCD_gotoXY
+                0x000049da       0x46 ./HAL/HLCD/HLCD_Source.o
+                0x000049da                HLCD_gotoXY
+ .text.HLCD_WriteString
+                0x00004a20       0x62 ./HAL/HLCD/HLCD_Source.o
+                0x00004a20                HLCD_WriteString
+ .text.HLCD_WriteInt
+                0x00004a82       0x4a ./HAL/HLCD/HLCD_Source.o
+                0x00004a82                HLCD_WriteInt
+ .text.HLCD_WriteArabic
+                0x00004acc       0x20 ./HAL/HLCD/HLCD_Source.o
+                0x00004acc                HLCD_WriteArabic
+ .text.HLCD_vidCreatCustomChar
+                0x00004aec      0x156 ./HAL/HLCD/HLCD_Source.o
+                0x00004aec                HLCD_vidCreatCustomChar
+ .text.HExtInt_enInit
+                0x00004c42       0x32 ./HAL/HExtInt/HExtInt.o
+                0x00004c42                HExtInt_enInit
+ .text.HExtInt_enCBF
+                0x00004c74       0x36 ./HAL/HExtInt/HExtInt.o
+                0x00004c74                HExtInt_enCBF
+ .text.HExtInt_enCBFInt1
+                0x00004caa       0x36 ./HAL/HExtInt/HExtInt.o
+                0x00004caa                HExtInt_enCBFInt1
+ .text.eeprom_init
+                0x00004ce0       0x12 ./HAL/EEPROM/HEEPROM_Program.o
+                0x00004ce0                eeprom_init
+ .text.eeprom_write_byte
+                0x00004cf2       0x4c ./HAL/EEPROM/HEEPROM_Program.o
+                0x00004cf2                eeprom_write_byte
+ .text.eeprom_read_byte
+                0x00004d3e       0x56 ./HAL/EEPROM/HEEPROM_Program.o
+                0x00004d3e                eeprom_read_byte
+ .text.eeprom_write_string
+                0x00004d94       0x94 ./HAL/EEPROM/HEEPROM_Program.o
+                0x00004d94                eeprom_write_string
+ .text.eeprom_read_string
+                0x00004e28       0x98 ./HAL/EEPROM/HEEPROM_Program.o
+                0x00004e28                eeprom_read_string
+ .text.HButton_Init
+                0x00004ec0       0x38 ./HAL/Button/button.o
+                0x00004ec0                HButton_Init
+ .text.HButton_ExtIntInit
+                0x00004ef8       0x30 ./HAL/Button/button.o
+                0x00004ef8                HButton_ExtIntInit
+ .text.HButton_getPinVal
+                0x00004f28       0x46 ./HAL/Button/button.o
+                0x00004f28                HButton_getPinVal
+ .text.resetFunc
+                0x00004f6e       0x18 ./APP/app.o
+                0x00004f6e                resetFunc
+ .text.vid_appInit
+                0x00004f86       0x3e ./APP/app.o
+                0x00004f86                vid_appInit
+ .text.vid_appStart
+                0x00004fc4      0x316 ./APP/app.o
+                0x00004fc4                vid_appStart
+ .text.main     0x000052da       0x1a ./main.o
+                0x000052da                main
+ .text.libgcc   0x000052f4       0x26 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x000052f4                __divmodhi4
+                0x000052f4                _div
+ .text.libgcc   0x0000531a       0x44 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000531a                __udivmodsi4
+ .text.libgcc   0x0000535e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000535e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000535e        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000535e       0x28 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000535e                __udivmodhi4
+ .text.libgcc   0x00005386       0x38 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00005386                __prologue_saves__
+ .text.libgcc   0x000053be       0x36 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x000053be                __epilogue_restores__
+ .text.avr-libc
+                0x000053f4       0x12 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                0x000053f4                strcmp
+ .text.avr-libc
+                0x00005406       0x12 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x00005406                strlen
+ .text.avr-libc
+                0x00005418       0x42 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x00005418                itoa
+ .text.avr-libc
+                0x0000545a       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x0000545a                strrev
+                0x0000547a                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000547a        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x0000547a                exit
+                0x0000547a                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000547a        0x4 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000547e                _etext = .
+
+.data           0x00800060      0x282 load address 0x0000547e
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060        0x0 ./MCAL/pwm/PWM_Source.o
+ .data          0x00800060        0x0 ./MCAL/UART/MUART_Config.o
+ .data          0x00800060        0x0 ./MCAL/UART/MUART_Source.o
+ .data          0x00800060        0x0 ./MCAL/Timer/Timer_Source.o
+ .data          0x00800060        0x0 ./MCAL/SPI/SPI_Program.o
+ .data          0x00800060        0x0 ./MCAL/IIC/MI2C_Program.o
+ .data          0x00800060        0x0 ./MCAL/ExtInt/EXTINT_Source.o
+ .data          0x00800060        0x0 ./MCAL/DIO/DIO_Source.o
+ .data          0x00800060        0x0 ./HAL/LED/led.o
+ .data          0x00800060        0x0 ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+ .data          0x00800060        0x0 ./HAL/KEYPAD_V2/keypad_src_v2.o
+ .data          0x00800060        0x8 ./HAL/HUART/HUART_Source.o
+ .data          0x00800068        0x0 ./HAL/HTimer/HTimer.o
+ .data          0x00800068        0x0 ./HAL/HSPI/HSPI_Program.o
+ .data          0x00800068        0x0 ./HAL/HLCD/HLCD_Configure.o
+ .data          0x00800068        0x0 ./HAL/HLCD/HLCD_Source.o
+ .data          0x00800068        0x0 ./HAL/HExtInt/HExtInt.o
+ .data          0x00800068        0x0 ./HAL/EEPROM/HEEPROM_Program.o
+ .data          0x00800068        0x0 ./HAL/Button/button.o
+ .data          0x00800068      0x129 ./APP/app.o
+ .data          0x00800191        0x0 ./main.o
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .data          0x00800191        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .data          0x00800191        0x8 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+                0x00800191                __thenan_sf
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .data          0x00800199        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .data          0x00800199      0x100 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+                0x00800199                __clz_tab
+ .data          0x00800299        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00800299        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .data          0x00800299        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x00800299        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.data*)
+ .data.uartInfo
+                0x00800299        0x2 ./MCAL/UART/MUART_Config.o
+                0x00800299                uartInfo
+ .data.global_ovf
+                0x0080029b        0x1 ./MCAL/Timer/Timer_Source.o
+ .data.prescaller_map
+                0x0080029c       0x10 ./MCAL/Timer/Timer_Source.o
+ .data.portReg  0x008002ac        0x8 ./MCAL/DIO/DIO_Source.o
+                0x008002ac                portReg
+ .data.ddrReg   0x008002b4        0x8 ./MCAL/DIO/DIO_Source.o
+                0x008002b4                ddrReg
+ .data.pinReg   0x008002bc        0x8 ./MCAL/DIO/DIO_Source.o
+                0x008002bc                pinReg
+ .data.KEYPAD_au8KeyValV2
+                0x008002c4       0x10 ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+                0x008002c4                KEYPAD_au8KeyValV2
+ .data.KEYPAD_strColPins
+                0x008002d4        0x4 ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+                0x008002d4                KEYPAD_strColPins
+ .data.KEYPAD_strRowPins
+                0x008002d8        0x4 ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+                0x008002d8                KEYPAD_strRowPins
+ .data.g_en_master_slave_sel
+                0x008002dc        0x1 ./HAL/HSPI/HSPI_Program.o
+                0x008002dc                g_en_master_slave_sel
+ .data.dataPin  0x008002dd        0x4 ./HAL/HLCD/HLCD_Configure.o
+                0x008002dd                dataPin
+ .data.myMode   0x008002e1        0x1 ./APP/app.o
+                0x008002e1                myMode
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008002e2                . = ALIGN (0x2)
+                0x008002e2                _edata = .
+                0x008002e2                PROVIDE (__data_end, .)
+
+.bss            0x008002e2       0x54
+                0x008002e2                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008002e2        0x0 ./MCAL/pwm/PWM_Source.o
+ .bss           0x008002e2        0x0 ./MCAL/UART/MUART_Config.o
+ .bss           0x008002e2        0x0 ./MCAL/UART/MUART_Source.o
+ .bss           0x008002e2        0x0 ./MCAL/Timer/Timer_Source.o
+ .bss           0x008002e2        0x0 ./MCAL/SPI/SPI_Program.o
+ .bss           0x008002e2        0x0 ./MCAL/IIC/MI2C_Program.o
+ .bss           0x008002e2        0x0 ./MCAL/ExtInt/EXTINT_Source.o
+ .bss           0x008002e2        0x0 ./MCAL/DIO/DIO_Source.o
+ .bss           0x008002e2        0x0 ./HAL/LED/led.o
+ .bss           0x008002e2        0x0 ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+ .bss           0x008002e2        0x0 ./HAL/KEYPAD_V2/keypad_src_v2.o
+ .bss           0x008002e2        0x0 ./HAL/HUART/HUART_Source.o
+ .bss           0x008002e2        0x0 ./HAL/HTimer/HTimer.o
+ .bss           0x008002e2        0x0 ./HAL/HSPI/HSPI_Program.o
+ .bss           0x008002e2        0x0 ./HAL/HLCD/HLCD_Configure.o
+ .bss           0x008002e2        0x0 ./HAL/HLCD/HLCD_Source.o
+ .bss           0x008002e2        0x0 ./HAL/HExtInt/HExtInt.o
+ .bss           0x008002e2        0x0 ./HAL/EEPROM/HEEPROM_Program.o
+ .bss           0x008002e2        0x0 ./HAL/Button/button.o
+ .bss           0x008002e2        0x0 ./APP/app.o
+ .bss           0x008002e2        0x0 ./main.o
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strlen.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x008002e2        0x0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ *(.bss*)
+ .bss.gl_u8_receive_mode
+                0x008002e2        0x1 ./MCAL/UART/MUART_Source.o
+                0x008002e2                gl_u8_receive_mode
+ .bss.stringIndex
+                0x008002e3        0x1 ./MCAL/UART/MUART_Source.o
+                0x008002e3                stringIndex
+ .bss.stringReceived
+                0x008002e4        0x1 ./MCAL/UART/MUART_Source.o
+                0x008002e4                stringReceived
+ .bss.preload   0x008002e5        0x2 ./MCAL/Timer/Timer_Source.o
+ .bss.globalCallFunc
+                0x008002e7        0x2 ./MCAL/Timer/Timer_Source.o
+ .bss.counter.1496
+                0x008002e9        0x1 ./MCAL/Timer/Timer_Source.o
+ .bss.global_prescaller
+                0x008002ea        0x1 ./MCAL/Timer/Timer_Source.o
+ .bss.global_timerStatus
+                0x008002eb        0x1 ./MCAL/Timer/Timer_Source.o
+ .bss.callBack  0x008002ec        0x2 ./MCAL/ExtInt/EXTINT_Source.o
+                0x008002ec                callBack
+ .bss.callBackFunc
+                0x008002ee        0x2 ./MCAL/ExtInt/EXTINT_Source.o
+                0x008002ee                callBackFunc
+ .bss.local_u8KeyPressed.1363
+                0x008002f0        0x1 ./HAL/KEYPAD_V2/keypad_src_v2.o
+ .bss.cbf       0x008002f1        0x2 ./HAL/HExtInt/HExtInt.o
+                0x008002f1                cbf
+ .bss.gl_reset_is_set
+                0x008002f3        0x1 ./APP/app.o
+                0x008002f3                gl_reset_is_set
+ *(COMMON)
+ COMMON         0x008002f4        0x1 ./MCAL/pwm/PWM_Source.o
+                0x008002f4                gen_PwmMode
+ COMMON         0x008002f5       0x40 ./MCAL/UART/MUART_Source.o
+                0x008002f5                receivedString
+ COMMON         0x00800335        0x1 ./MCAL/SPI/SPI_Program.o
+                0x00800335                g_dataVal
+                0x00800336                PROVIDE (__bss_end, .)
+                0x0000547e                __data_load_start = LOADADDR (.data)
+                0x00005700                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800336        0x0
+                0x00800336                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800336                PROVIDE (__noinit_end, .)
+                0x00800336                _end = .
+                0x00800336                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x7b60
+ *(.stab)
+ .stab          0x00000000      0x8e8 ./MCAL/pwm/PWM_Source.o
+ .stab          0x000008e8      0x138 ./MCAL/UART/MUART_Config.o
+                                0x144 (size before relaxing)
+ .stab          0x00000a20      0x828 ./MCAL/UART/MUART_Source.o
+                                0x87c (size before relaxing)
+ .stab          0x00001248      0x918 ./MCAL/Timer/Timer_Source.o
+                                0xae0 (size before relaxing)
+ .stab          0x00001b60      0x51c ./MCAL/SPI/SPI_Program.o
+                                0x6e4 (size before relaxing)
+ .stab          0x0000207c      0x618 ./MCAL/IIC/MI2C_Program.o
+                                0x624 (size before relaxing)
+ .stab          0x00002694      0x54c ./MCAL/ExtInt/EXTINT_Source.o
+                                0x714 (size before relaxing)
+ .stab          0x00002be0      0x75c ./MCAL/DIO/DIO_Source.o
+                                0x768 (size before relaxing)
+ .stab          0x0000333c      0x444 ./HAL/LED/led.o
+                                0x450 (size before relaxing)
+ .stab          0x00003780      0x21c ./HAL/KEYPAD_V2/keypad_cfg_v2.o
+                                0x228 (size before relaxing)
+ .stab          0x0000399c      0x480 ./HAL/KEYPAD_V2/keypad_src_v2.o
+                                0x708 (size before relaxing)
+ .stab          0x00003e1c      0x450 ./HAL/HUART/HUART_Source.o
+                                0x45c (size before relaxing)
+ .stab          0x0000426c      0x408 ./HAL/HTimer/HTimer.o
+                                0x414 (size before relaxing)
+ .stab          0x00004674      0x5f4 ./HAL/HSPI/HSPI_Program.o
+                                0x600 (size before relaxing)
+ .stab          0x00004c68      0x204 ./HAL/HLCD/HLCD_Configure.o
+                                0x210 (size before relaxing)
+ .stab          0x00004e6c     0x1554 ./HAL/HLCD/HLCD_Source.o
+                               0x17e8 (size before relaxing)
+ .stab          0x000063c0      0x414 ./HAL/HExtInt/HExtInt.o
+                                0x420 (size before relaxing)
+ .stab          0x000067d4      0x558 ./HAL/EEPROM/HEEPROM_Program.o
+                                0x564 (size before relaxing)
+ .stab          0x00006d2c      0x3cc ./HAL/Button/button.o
+                                0x3d8 (size before relaxing)
+ .stab          0x000070f8      0x948 ./APP/app.o
+                                0xb34 (size before relaxing)
+ .stab          0x00007a40      0x120 ./main.o
+                                0x12c (size before relaxing)
+
+.stabstr        0x00000000     0x5054
+ *(.stabstr)
+ .stabstr       0x00000000     0x5054 ./MCAL/pwm/PWM_Source.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000020       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_aranges
+                0x00000040       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_aranges
+                0x00000060       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_aranges
+                0x00000080       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_aranges
+                0x00000100       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_aranges
+                0x00000120       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x00000140       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_aranges
+                0x00000160       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_aranges
+                0x00000180       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_pubnames
+                0x00000000      0x1f2
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0x23 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000023       0x2c c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_pubnames
+                0x0000004f       0x1f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_pubnames
+                0x0000006e       0x1f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_pubnames
+                0x0000008d       0x1e c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_pubnames
+                0x000000ab       0x1e c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_pubnames
+                0x000000c9       0x1e c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_pubnames
+                0x000000e7       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_pubnames
+                0x00000107       0x22 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_pubnames
+                0x00000129       0x24 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_pubnames
+                0x0000014d       0x1f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_pubnames
+                0x0000016c       0x1f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_pubnames
+                0x0000018b       0x21 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_pubnames
+                0x000001ac       0x26 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_pubnames
+                0x000001d2       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_info     0x00000000     0x240b
+ *(.debug_info)
+ .debug_info    0x00000000       0xb1 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_info    0x000000b1      0x47a c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_info    0x0000052b      0x485 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_info    0x000009b0      0x3fc c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_info    0x00000dac      0x27f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_info    0x0000102b      0x27f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_info    0x000012aa      0x27f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_info    0x00001529      0x2b0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_info    0x000017d9      0x12c c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_info    0x00001905      0x206 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_info    0x00001b0b      0x117 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_info    0x00001c22      0x2df c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_info    0x00001f01      0x251 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_info    0x00002152      0x210 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_info    0x00002362       0xa9 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000     0x1386
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x5d c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000005d      0x1ea c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_abbrev  0x00000247      0x21b c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_abbrev  0x00000462      0x216 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_abbrev  0x00000678      0x15a c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_abbrev  0x000007d2      0x15a c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_abbrev  0x0000092c      0x15a c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_abbrev  0x00000a86      0x17f c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_abbrev  0x00000c05       0xad c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_abbrev  0x00000cb2      0x157 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_abbrev  0x00000e09       0xc4 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x00000ecd      0x1c0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_abbrev  0x0000108d      0x154 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_abbrev  0x000011e1      0x13b c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_abbrev  0x0000131c       0x6a c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_line     0x00000000     0x11d6
+ *(.debug_line)
+ .debug_line    0x00000000       0xa7 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_line    0x000000a7      0x2af c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_line    0x00000356      0x239 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_line    0x0000058f      0x1d5 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_line    0x00000764       0xd3 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_line    0x00000837       0xd3 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_line    0x0000090a       0xd3 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_line    0x000009dd      0x109 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_line    0x00000ae6       0x90 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_line    0x00000b76      0x133 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_line    0x00000ca9       0xa5 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_line    0x00000d4e      0x18a c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_line    0x00000ed8      0x14b c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_line    0x00001023      0x137 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+ .debug_line    0x0000115a       0x7c c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_frame    0x00000000      0x1c0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_frame   0x00000020       0x40 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_frame   0x00000060       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_frame   0x00000080       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_frame   0x000000a0       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_frame   0x000000c0       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_frame   0x000000e0       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_frame   0x00000100       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_frame   0x00000120       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_frame   0x00000140       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000160       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_frame   0x00000180       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000001a0       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_str      0x00000000      0x2f6
+ *(.debug_str)
+ .debug_str     0x00000000       0xbf c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+                                 0xfe (size before relaxing)
+ .debug_str     0x000000bf      0x14d c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+                                0x206 (size before relaxing)
+ .debug_str     0x0000020c       0x27 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+                                0x1bf (size before relaxing)
+ .debug_str     0x00000233       0x35 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+                                0x1c8 (size before relaxing)
+ .debug_str     0x00000268        0x8 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000270        0x8 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000278        0x8 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+                                0x195 (size before relaxing)
+ .debug_str     0x00000280        0xa c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+                                0x19e (size before relaxing)
+ .debug_str     0x00000000      0x103 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_thenan_sf.o)
+ .debug_str     0x0000028a       0x21 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+                                0x177 (size before relaxing)
+ .debug_str     0x000002ab       0x20 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+                                0x111 (size before relaxing)
+ .debug_str     0x000002cb       0x10 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+                                0x19d (size before relaxing)
+ .debug_str     0x000002db        0xb c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+                                0x17f (size before relaxing)
+ .debug_str     0x000002e6       0x10 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                                0x163 (size before relaxing)
+ .debug_str     0x00000000       0xf4 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clz.o)
+
+.debug_loc      0x00000000      0x96e
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x34 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fixunssfsi.o)
+ .debug_loc     0x00000034      0x32a c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_addsub_sf.o)
+ .debug_loc     0x0000035e      0x104 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
+ .debug_loc     0x00000462       0xc0 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_div_sf.o)
+ .debug_loc     0x00000522       0x3c c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_gt_sf.o)
+ .debug_loc     0x0000055e       0x3c c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_ge_sf.o)
+ .debug_loc     0x0000059a       0x3c c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_lt_sf.o)
+ .debug_loc     0x000005d6       0x7e c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_sf_to_si.o)
+ .debug_loc     0x00000654       0x4c c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_usi_to_sf.o)
+ .debug_loc     0x000006a0       0x94 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clzsi2.o)
+ .debug_loc     0x00000734      0x13e c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_pack_sf.o)
+ .debug_loc     0x00000872       0xac c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_unpack_sf.o)
+ .debug_loc     0x0000091e       0x50 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_fpcmp_parts_sf.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(CARD_MCU.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x50
+ .debug_ranges  0x00000000       0x50 c:/iti folder/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mul_sf.o)
